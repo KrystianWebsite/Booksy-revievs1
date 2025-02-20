@@ -7,7 +7,7 @@ description: "Formularz kontaktowy"
 
 Możesz napisać do nas, korzystając z formularza:
 
-<form
+<form netlify
   name="contact"
   method="POST"
   data-netlify="true"
